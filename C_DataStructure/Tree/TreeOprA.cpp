@@ -26,7 +26,7 @@ void Postorder(TreePtr pTree);
 void IterativeInorder(TreePtr pTree);
 void IterativePreorder(TreePtr pTree);
 void LevelOrder(TreePtr pTree);
-TreePtr CopyTree(TreePtr pTree);
+TreePtr CopyTree(TreePtr pTree); //copyTree
 int EqualTree(TreePtr pTree, TreePtr pTree1);
 void SwapTree(TreePtr pTree);
 void FreeTree(TreePtr pTree);
